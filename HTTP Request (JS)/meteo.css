@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'edo';
+    src: url('police/edo.ttf');
+}
+#zone_name{
+    font-family: 'edo';
+    font-size: 3em;
+    color: darkgrey;
+    text-decoration: underline;
+}
+#inputCity{
+    height: 4rem;
+
+}
+.input-group{
+    padding-top: 15%;
+    padding-right: 65%;
+}
+
+
+.btn{
+	background-color: rgb(29, 98, 110); 
+    text-align: center;
+    font-family: 'edo';
+    font-size: 2em;
+    color: black;
+}
+
+h1{
+	text-align: center;
+    font-family: 'edo';
+    font-size: 4em;
+}
+p{
+	text-align: center;
+    font-family: 'edo';
+    font-size: 2em;
+}
+.form-control{
+    text-align: center;
+    font-family: 'edo';
+    font-size: 2em;
+}
+
+.card{
+    background-color: #24607a;
+}
+body{
+	/*background-image:  url(nuages.jpg);*/
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
